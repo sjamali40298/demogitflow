@@ -1,3 +1,5 @@
 this is second change
 
 hello updated second 
+
+updated for merge commit
